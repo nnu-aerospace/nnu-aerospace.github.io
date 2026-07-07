@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   NNU Aerospace Club Final RockSat Reports. RockSat-X 2022-2025, RockSat 2026
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
+youtube_username: "@NNUAerospace"
 github_username:  nnu-aerospace
 logo: /assets/images/logo.png
 
