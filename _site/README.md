@@ -15,7 +15,7 @@ First, install ruby. Pages can't seem to use ruby 4.0.x, so you got to use an ol
 
 Then you run bundle exec jekyll serve in the directory all your website stuff is stored in. It launches a localhost version of the website so you can see what you're doing in realtime. Whenever you modify any file other than  _config.yml, it auto updates. Just refresh the page to see your changes.
 
-By default it puts it at http://localhost:4000/ Just enter that into your browser and you'll be good to go. When a working version is developed, push it to GitHub and after a minute or two it will rebuild the site and the nnu-aerospace.github.io will show your new changes
+By default it puts it at http://localhost:4000/ Just enter that into your browser and you'll be good to go. When a working version is developed, push it to GitHub and after a minute or two it will rebuild the site and the https://nnu-aerospace.github.io will show your new changes
 
 
 
