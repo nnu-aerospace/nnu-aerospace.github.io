@@ -28,6 +28,12 @@ youtube_username: "@NNUAerospace"
 github_username:  nnu-aerospace
 logo: /assets/images/logo.png
 
+header_pages: 
+- docs/RockSAT.md
+- docs/cubesats.md
+- about.markdown
+- index.md
+
 # Build settings
 theme: minima
 plugins:
