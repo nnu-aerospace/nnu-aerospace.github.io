@@ -62,6 +62,7 @@ Install Bundler
 
 ```bash
 gem install bundler
+bundle install
 ```
 
 #### Setup local files
@@ -70,7 +71,7 @@ gem install bundler
 cd ~
 mkdir website
 cd website
-git clone https://github.com/nnu-aerospace.github.io
+git clone https://github.com/nnu-aerospace/nnu-aerospace.github.io
 cd nnu-aerospace.github.io
 ```
 
@@ -88,7 +89,7 @@ Ye oughta be in the root directory when ya run this stuff, if you followed the d
 
 ```bash
 git add .
-git commit -m '<Your comments about why you're adding stuff>'
+git commit -m "Your comments about why you\'re adding stuff"
 git push
 ```
 
