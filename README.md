@@ -64,6 +64,12 @@ Install Bundler
 gem install bundler
 ```
 
+You may need to install extra stuff too
+```bash
+sudo apt install jekyll
+```
+
+
 #### Setup local files
 
 ```bash
@@ -79,6 +85,12 @@ Launch local web server
 ```bash
 bundle exec jekyll serve
 ```
+If this whines, run
+```bash
+bundle install
+```
+In the root directory of the website folder
+
 Presuming everything works, you can now open http://localhost:4000/ and preview the website
 When you update any of the markdown files, presuming the terminal you ran `bundle exec jekyll serve` is still open, it will automatically update the web page. Just reload it to see your changes. If you navigate to a new page and it hasn't updated, refresh the page to update the cache. 
 
